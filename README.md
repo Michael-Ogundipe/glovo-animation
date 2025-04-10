@@ -1,16 +1,8 @@
-# glovo_animation
+# 🛵 Glovo Animation Wheel (Flutter)  
 
-A new Flutter project.
+A fun and interactive UI recreation of the Glovo app's animated service wheel using Flutter. This project displays a circular menu of services (Delivery, Food, Groceries, Shops, etc.) that animate smoothly into view.
 
-## Getting Started
+https://github.com/user-attachments/assets/b1cf4842-b3c2-4e7f-96a7-90094b5b0efa
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

@@ -25,6 +25,13 @@ https://github.com/user-attachments/assets/ea5c040f-30e1-45bc-a3cb-57bbdbd4cd54
 
 - Stack & Transform Widgets
 
+# 📦 Installation
+
+1. Clone the repo:
+
+```bash
+https://github.com/Michael-Ogundipe/glovo-animation.git
+```
 
 
 

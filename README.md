@@ -39,14 +39,3 @@ It helps others discover the project and shows your appreciation for the work.
 
 [Star this repo](https://github.com/Michael-Ogundipe/glovo-animation.git)
 
-## 🔧 Tech Stack
-
-- Flutter
-
-- Dart
-
-- Custom Animations
-
-- Stack & Transform Widgets
-
-

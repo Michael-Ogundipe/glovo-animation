@@ -10,7 +10,8 @@ class Blob extends StatelessWidget {
     super.key,
     required this.color,
     this.rotation = 0,
-    this.scale = 1, required this.widget,
+    this.scale = 1,
+    required this.widget,
   });
 
   @override

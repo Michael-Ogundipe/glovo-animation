@@ -110,15 +110,9 @@ class _HomeScreenState extends State<HomeScreen> {
       left: x - 25,
       top: y - 25,
       child: GestureDetector(
-        onPanStart: (details) {
-          startDrag(index, details);
-        },
-        onPanUpdate: (details) {
-          updateDrag(details);
-        },
-        onPanEnd: (_) {
-          endDrag();
-        },
+        onPanStart: (details) => startDrag(index, details),
+        onPanUpdate: (details) => updateDrag(details),
+        onPanEnd: (_) => endDrag(),
         child: SizedBox(
           width: 100,
           height: 100,
@@ -209,10 +203,8 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
-  void endDrag() {
-    setState(() {
-      draggedCircleIndex = null;
-      previousDragAngle = null;
-    });
-  }
+  void endDrag() => setState(() {
+        draggedCircleIndex = null;
+        previousDragAngle = null;
+      });
 }

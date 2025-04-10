@@ -5,7 +5,7 @@ A fun and interactive UI recreation of the Glovo app's animated service wheel us
 
 https://github.com/user-attachments/assets/ea5c040f-30e1-45bc-a3cb-57bbdbd4cd54
 
-# ✨ Features
+## ✨ Features
 
 - Smooth animated wheel layout
 
@@ -15,7 +15,31 @@ https://github.com/user-attachments/assets/ea5c040f-30e1-45bc-a3cb-57bbdbd4cd54
 
 - Easily extendable for real navigation or interaction
 
-# 🔧 Tech Stack
+## 📦 Installation
+
+1. Clone the repo:
+
+```bash
+https://github.com/Michael-Ogundipe/glovo-animation.git
+```
+2. Get dependencies:
+```bash
+flutter pub get
+```
+3. Run the app
+```bash
+flutter run
+```
+
+
+## ⭐ Star the Repo
+
+If you find this repository useful, don't forget to give it a star! ⭐  
+It helps others discover the project and shows your appreciation for the work.
+
+[Star this repo](https://github.com/Michael-Ogundipe/glovo-animation.git)
+
+## 🔧 Tech Stack
 
 - Flutter
 
@@ -24,16 +48,5 @@ https://github.com/user-attachments/assets/ea5c040f-30e1-45bc-a3cb-57bbdbd4cd54
 - Custom Animations
 
 - Stack & Transform Widgets
-
-# 📦 Installation
-
-1. Clone the repo:
-
-```bash
-https://github.com/Michael-Ogundipe/glovo-animation.git
-```
-
-
-
 
 
